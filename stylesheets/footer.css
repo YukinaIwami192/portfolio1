@@ -1,0 +1,7 @@
+
+footer {
+    position: sticky;
+    top: 100vh;
+    width: 100%;
+    background:rgb(10, 151, 60);
+}

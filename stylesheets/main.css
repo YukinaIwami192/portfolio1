@@ -1,0 +1,13 @@
+main {
+    display: inline-flex;
+    padding: 20px;
+    justify-content: space-between;
+    width: 90%;
+}
+
+.profile-pic {
+    width: 300px;
+    height: 300px;
+    border: 1px solid rgb(10, 151, 60);
+    margin: auto;
+}
